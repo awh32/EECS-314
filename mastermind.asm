@@ -92,5 +92,4 @@ vert_line:			.asciiz " | "
 corspot:			.asciiz "# of colors in correct slots: \n"
 space: 				.asciiz "\n"
 
-	
 # end of Mastermind
